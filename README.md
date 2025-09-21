@@ -40,7 +40,7 @@ The dataset contains information about:
 ---
 
 ## 📸 Dashboard Snapshot
-![Dashboard Screenshot](Screenshot%202025-09-21%20105359.png)
+![Dashboard Screenshot](https://github.com/Praveenkumar-p-gif/FNP-Sales-ExcelDashboard/blob/main/FNP%20Excel%20Dasboard/Screenshot%202025-09-21%20105359.png)
 
 ---
 
