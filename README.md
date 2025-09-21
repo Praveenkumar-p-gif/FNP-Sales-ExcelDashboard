@@ -33,9 +33,6 @@ The dataset contains information about:
 
 ## 🛠️ Tools & Technologies
 - **Excel** – Data cleaning, pivot tables, and dashboard creation  
-- **Power BI** – Interactive dashboard & visualization  
-- **SQL** – Querying and extracting business insights  
-- **Python (Pandas, Matplotlib, Seaborn)** – Data analysis & visualizations  
 
 ---
 
